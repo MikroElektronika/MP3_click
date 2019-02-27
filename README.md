@@ -4,8 +4,6 @@
 
 # MP3 Click
 
----
-
 - **CIC Prefix**  : MP3
 - **Author**      : MikroE Team
 - **Verison**     : 1.0.1
@@ -13,11 +11,6 @@
 
 ---
 
-- **Libstock** : https://libstock.mikroe.com/projects/view/207/mp3-click
-- **HEXIWEAR** : ${HEXI_LINK}
-- **GitHub**   : ${GITHUB_LINK}
-
----
 
 ### Software Support
 
