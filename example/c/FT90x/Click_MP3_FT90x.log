@@ -1,0 +1,17 @@
+0	1	mikroCFT90x.exe -MSF -DBG -p FT900 -BIN -DL -SSA -O11111114 -fo100 -N"C:\Users\katarina.perendic\Desktop\MP3_Click\example\c\FT90x\Click_MP3_FT90x.mcpf9" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for FT90x\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for FT90x\Uses\" -SP"C:\Users\katarina.perendic\Desktop\MP3_Click\example\c\FT90x\" -SP"C:\Users\katarina.perendic\Desktop\MP3_Click\library\HAL\" -SP"C:\Users\katarina.perendic\Desktop\MP3_Click\library\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for FT90x\Packages\mikroBUS Board Definition API\Uses\" -IP"C:\Users\katarina.perendic\Desktop\MP3_Click\library\" -IP"C:\Users\katarina.perendic\Desktop\MP3_Click\library\HAL\" -IP"C:\Users\katarina.perendic\Desktop\MP3_Click\example\c\FT90x\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for FT90x\Packages\mikroBUS Board Definition API\Uses\" "Click_MP3_FT90x.c" "__mp3_Driver.c" "__Lib_Delays.emcl" "__Lib_System.emcl" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_GPIO.emcl" "__Lib_CType.emcl" "__Lib_CString.emcl" "__Lib_Conversions.emcl" "__Lib_UART.emcl" "__Lib_SPI.emcl" "__Lib_SDHost.emcl" "__Lib_Mmc_SDHOST.emcl" "__Lib_MmcFat16.emcl" "__Lib_MmcFat16Constants.emcl" "easyft90x_v7_FT900.emcl" "Click_MP3.pld"	 
+diagnostics: 0	122	Compilation Started	stdint.h
+warning: 111	1506	Implicit conversion of pointer to int	Click_MP3_FT90x.c
+diagnostics: 126	123	Compiled Successfully	Click_MP3_FT90x.c
+hint: 49	1164	Variable 'volume' has been eliminated by optimizer	Click_MP3_FT90x.c
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 200	123	Compiled Successfully	__mp3_Driver.c
+hint: 323	1164	Variable 'tmp' has been eliminated by optimizer	__mp3_Driver.c
+hint: 34	1164	Variable 'tmp' has been eliminated by optimizer	__mp3_Driver.c
+diagnostics: 0	127	All files Compiled in 156 ms	 
+hint: 0	1144	Used RX: 17 (53%)   Free RX: 15 (47%)	Used RX: 17 (53%)   Free RX: 15 (47%)
+hint: 0	1144	Static RAM (bytes): 2160   Dynamic RAM (bytes): 63361	Static RAM (bytes): 2160   Dynamic RAM (bytes): 63361
+hint: 0	1144	Used ROM (bytes): 29900 (11%)  Free ROM (bytes): 232244 (89%)	Used ROM (bytes): 29900 (11%)  Free ROM (bytes): 232244 (89%)
+diagnostics: 0	125	Project Linked Successfully	Click_MP3_FT90x.mcpf9
+diagnostics: 0	128	Linked in 140 ms	 
+diagnostics: 0	129	Project 'Click_MP3_FT90x.mcpf9' completed: 359 ms	 
+diagnostics: 0	103	Finished successfully: 04 apr 2018, 10:51:59	Click_MP3_FT90x.mcpf9
